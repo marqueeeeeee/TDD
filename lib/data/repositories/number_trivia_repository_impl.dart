@@ -1,7 +1,7 @@
 import 'package:dartz/dartz.dart';
 import 'package:kiwi_sample/core/error/exceptions.dart';
 import 'package:kiwi_sample/core/error/failures.dart';
-import 'package:kiwi_sample/core/platform/network_info.dart';
+import 'package:kiwi_sample/core/network/network_info.dart';
 import 'package:kiwi_sample/data/datasources/number_trivia_local_datasource.dart';
 import 'package:kiwi_sample/data/datasources/number_trivia_remote_datasource.dart';
 import 'package:kiwi_sample/domain/entities/NumberTrivia.dart';
