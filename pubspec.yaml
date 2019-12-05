@@ -24,8 +24,8 @@ dependencies:
   get_it: ^2.0.1
 
   # Value equality
-  equatable: ^0.4.0
-
+  equatable: ^1.0.0
+  bloc:
   # Functional programming thingies
   dartz: ^0.8.6
   # Remote API
